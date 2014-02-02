@@ -1,0 +1,10 @@
+ Volume in drive C is Windows7_OS
+ Volume Serial Number is 267B-E706
+
+ Directory of C:\Sites\delme00
+
+02/02/2014  09:49 PM    <DIR>          .
+02/02/2014  09:49 PM    <DIR>          ..
+02/02/2014  09:49 PM                 0 teste.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  144,070,995,968 bytes free
